@@ -1,0 +1,6 @@
+D:\mydevhome\hang_server\Hangliebe.Cache\obj\Debug\net6.0\Hangliebe.Cache.csproj.AssemblyReference.cache
+D:\mydevhome\hang_server\Hangliebe.Cache\obj\Debug\net6.0\Hangliebe.Cache.GeneratedMSBuildEditorConfig.editorconfig
+D:\mydevhome\hang_server\Hangliebe.Cache\obj\Debug\net6.0\Hangliebe.Cache.AssemblyInfoInputs.cache
+D:\mydevhome\hang_server\Hangliebe.Cache\obj\Debug\net6.0\Hangliebe.Cache.AssemblyInfo.cs
+D:\mydevhome\hang_server\Hangliebe.Cache\obj\Debug\net6.0\Hangliebe.Cache.csproj.CoreCompileInputs.cache
+D:\mydevhome\hang_server\Hangliebe.Cache\obj\Debug\net6.0\Hangliebe.Cache.MvcApplicationPartsAssemblyInfo.cache

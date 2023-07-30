@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<form method="post" enctype="multipart/form-data" asp-controller="Image" asp-action="UploadFiles">
+    <div class="form-group">
+        <div class="col-md-12">
+            <p>选择要上传的文件</p>
+            <input type="file" name="files" multiple />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-12">
+            <input type="submit" value="上传" />
+        </div>
+    </div>
+</form>
+<p><a href="~/MyFiles">文件下载列表</a>.</p>
