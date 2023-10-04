@@ -480,3 +480,11 @@ D:/mydevhome/hang_server/hang_server/obj/Debug/net6.0/hang_server.csproj.CopyCom
 /home/ubuntu/hang_server/hang_server/obj/Debug/net6.0/hang_server.pdb
 /home/ubuntu/hang_server/hang_server/obj/Debug/net6.0/hang_server.genruntimeconfig.cache
 /home/ubuntu/hang_server/hang_server/obj/Debug/net6.0/ref/hang_server.dll
+/home/ubuntu/hang_server/hang_server/bin/Debug/net6.0/NAudio.dll
+/home/ubuntu/hang_server/hang_server/bin/Debug/net6.0/NAudio.Asio.dll
+/home/ubuntu/hang_server/hang_server/bin/Debug/net6.0/NAudio.Core.dll
+/home/ubuntu/hang_server/hang_server/bin/Debug/net6.0/NAudio.Midi.dll
+/home/ubuntu/hang_server/hang_server/bin/Debug/net6.0/NAudio.Wasapi.dll
+/home/ubuntu/hang_server/hang_server/bin/Debug/net6.0/NAudio.WinMM.dll
+/home/ubuntu/hang_server/hang_server/bin/Debug/net6.0/AudioModule.dll
+/home/ubuntu/hang_server/hang_server/bin/Debug/net6.0/AudioModule.pdb

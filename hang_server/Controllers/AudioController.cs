@@ -8,7 +8,7 @@ using AudioModule;
 
 namespace hang_server.Controllers
 {
-    public class ImageController : Controller
+    public class AudioController : Controller
     {
         public IActionResult Index()
         {
@@ -43,7 +43,6 @@ namespace hang_server.Controllers
                             ViewBag.log += "\r\n" + ex.ToString();
                         }
                     }
-                    AudioTool.ConvertPCMToWAV(thispath, Directory.GetCurrentDirectory() + "/wwwroot/files/b.wav");
                 }
             }
             return RedirectToAction("Index", "Image");

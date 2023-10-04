@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "At4wV6H+T/XfhEPU01Pa1Fp9jvkoGwlSEk6mV0me4wH8rV2Q5N5GHHb4U7MtN1EuPt/GJs0r4NgPZQ/PDmU94g==",
+  "dgSpecHash": "axZ2Hg+iAua5nDpKY9Jz3z6eD8HehT6wG5Mkg8Wg5xbwd73y02ngGfoDBnO+gR23xb9mmYKfsg1mMmaWPvIW7Q==",
   "success": true,
   "projectFilePath": "/home/ubuntu/hang_server/hang_server/hang_server.csproj",
   "expectedPackageFiles": [
@@ -44,8 +44,14 @@
     "/home/ubuntu/.nuget/packages/microsoft.visualstudio.web.codegeneration.utils/6.0.10/microsoft.visualstudio.web.codegeneration.utils.6.0.10.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/microsoft.visualstudio.web.codegenerators.mvc/6.0.10/microsoft.visualstudio.web.codegenerators.mvc.6.0.10.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.win32.registry/4.3.0/microsoft.win32.registry.4.3.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/naudio/2.1.0/naudio.2.1.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/naudio.asio/2.1.0/naudio.asio.2.1.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/naudio.core/2.1.0/naudio.core.2.1.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/naudio.midi/2.1.0/naudio.midi.2.1.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/naudio.wasapi/2.1.0/naudio.wasapi.2.1.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/naudio.winmm/2.1.0/naudio.winmm.2.1.0.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/nuget.common/6.2.1/nuget.common.6.2.1.nupkg.sha512",

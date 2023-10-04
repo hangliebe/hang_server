@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Audio File</title>
+</head>
+<body>
+    <form id="uploadForm" runat="server" enctype="multipart/form-data">
+        <input type="file" name="audioFile" id="audioFile" accept=".mp3, .pcm, .wav, .ogg" />
+        <br />
+        <input type="submit" value="上传" />
+    </form>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById("uploadForm").addEventListener("submit", function (e) {
+            e.preventDefault();
+            const formData = new FormData();
+            formData.append("audioFile", document.getElementById("audioFile").files[0]);
+
+            fetch("UploadHandler.ashx", {
+                method: "POST",
+                body: formData
+            })
+            .then(response => response.text())
+            .then(result => {
+                document.getElementById("result").textContent = result;
+            })
+            .catch(error => {
+                console.error("Error uploading audio file:", error);
+            });
+        });
+    </script>
+</body>
+</html>

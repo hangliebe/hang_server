@@ -1,0 +1,12 @@
+/home/ubuntu/hang_server/AudioModule/bin/Debug/net6.0/AudioModule.deps.json
+/home/ubuntu/hang_server/AudioModule/bin/Debug/net6.0/AudioModule.dll
+/home/ubuntu/hang_server/AudioModule/bin/Debug/net6.0/AudioModule.pdb
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/AudioModule.csproj.AssemblyReference.cache
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/AudioModule.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/AudioModule.AssemblyInfoInputs.cache
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/AudioModule.AssemblyInfo.cs
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/AudioModule.csproj.CoreCompileInputs.cache
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/AudioModule.dll
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/refint/AudioModule.dll
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/AudioModule.pdb
+/home/ubuntu/hang_server/AudioModule/obj/Debug/net6.0/ref/AudioModule.dll
